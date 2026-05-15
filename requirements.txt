@@ -1,4 +1,6 @@
-streamlit==1.45.0
-pypdf==5.4.0
-pdfplumber==0.11.6
-Pillow==11.2.1
+streamlit>=1.40.0
+pypdf>=5.0.0
+pdfplumber>=0.11.0
+Pillow>=10.4.0
+pytesseract>=0.3.10
+pdf2image>=1.16.0
